@@ -1,0 +1,38 @@
+[   16449ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[   22175ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[   22177ms] [LOG] [Fast Refresh] done in 102ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  106654ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  106725ms] [LOG] [Fast Refresh] done in 184ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  530371ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  530822ms] [LOG] [Fast Refresh] done in 558ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  534930ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  535232ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  536058ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  536101ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  537609ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  537631ms] [LOG] [Fast Refresh] done in 131ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  537810ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  537879ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  583043ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  583044ms] [LOG] [Fast Refresh] done in 117ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  648574ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  648776ms] [LOG] [Fast Refresh] done in 285ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  683803ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  683887ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  696303ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  696395ms] [LOG] [Fast Refresh] done in 203ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  714575ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  714632ms] [LOG] [Fast Refresh] done in 172ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
+[  714899ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[  730636ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  730716ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  731807ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  731817ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  733518ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  733535ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  791663ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  791673ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  794929ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[  869051ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js:14537
+[  870012ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5949
+[  870111ms] [LOG] [Fast Refresh] done in 215ms @ http://localhost:3002/_next/static/chunks/node_modules_next_dist_client_cf1d9188._.js:5809
